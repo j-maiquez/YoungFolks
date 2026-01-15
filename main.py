@@ -8,7 +8,7 @@ print(f"There are {len(products)} products in the 'YoungFolks' store.")
 for p in products:
     print("Title:", p["title"])
     print("Category:", p["category"])
-    print()
+    print("Price:", p["price"], "\n")
 
 #TODO: include the rate (not the count) of the product
 #TODO: include the price
