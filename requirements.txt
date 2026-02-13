@@ -1,0 +1,7 @@
+streamlit
+plotly>=5.0.0
+python-dotenv
+requests
+pandas
+numpy
+flask
